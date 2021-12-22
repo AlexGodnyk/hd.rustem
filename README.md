@@ -1,6 +1,6 @@
 hd.rustem
 =======
-<h4>HELPDESK веб-система, для организации учёта выполнения задач (заявок) между структурными подразделениями и пользователями или клиентами организации.<h4>
+<h4>HELPDESK is a web-based system for organizing the accounting of tasks (requests) between structural divisions and users or clients of the organization.<h4>
 <html>
 <script async="async" src="https://www.paypalobjects.com/js/external/paypal-button.min.js?merchant=info@rustem.com.ua" 
     data-button="buynow" 
@@ -12,70 +12,69 @@ hd.rustem
 </html>
 
 =======
-<h3>Наш проект перерос в более продвинутую версию - <a href="http://zenlix.com/">ZENLIX</a>.</h3>
+<h3>Our project has grown into a more advanced version - ZENLIX </a>.</h3>
 =======
 <img src="http://habrastorage.org/files/c44/cbd/cc6/c44cbdcc63be47f0b640349b2a0b1f8f.png"/>
 <img src="http://habrastorage.org/files/58a/d7f/d43/58ad7fd436e940058132b5f131dae603.png"/>
 <img src="http://habrastorage.org/files/ad9/ff2/2e7/ad9ff22e756d4a17a5e152f23e19791d.png"/>
 
-<h4>Функционал</h4>
+<h4> Functionality </h4>
 <ul>
-<li>Многоуровневая система прав пользователей</li>
-<li>JQuery-ориентированая структура интерфейса</li>
-<li>Возможность регистрации в системе из «белого списка» e-mail адресов</li>
-<li>Извещение о новых заявках по e-mail, sms, и другим системам</li>
-<li>Пользовательские настройки</li>
-<li>Поддержка языков: Украинский, Русский, Английский</li>
-<li>Всплывающие сообщения о событиях с заявками (как в VK)</li>
-<li>Центр знаний — раздел для файлов документации, инструкций и хелпов со структурой прав</li>
-<li>Блокнот — личный блокнот пользователя с возможностью делиться ссылкой</li>
-<li>Статистика заявок</li>
-<li>«Умное» создание заявок по номеру, ФИО, логину клиента</li>
-<li>Приоритеты заявок</li>
-<li>Комментарии и чат в заявке</li>
-<li>Полное логирование всех действий всеми пользователями заявки</li>
-<li>И другое...</li>
+<li> Multilevel system of user rights </li>
+<li> jQuery-oriented interface structure </li>
+<li> Possibility of registration in the system from the "white list" of e-mail addresses </li>
+<li> Notification of new applications by e-mail, sms, and other systems </li>
+<li> User preferences </li>
+<li> Language support: Ukrainian, Russian, English </li>
+<li> Pop-up messages about events with requests (as in VK) </li>
+<li> Knowledge Center - section for documentation files, instructions and help files with a structure of rights </li>
+<li> Notepad - user's personal notepad with the ability to share a link </li>
+<li> Application statistics </li>
+<li> "Smart" creation of orders by number, full name, client login </li>
+<li> Order Priorities </li>
+<li> Comments and chat in the application </li>
+<li> Full logging of all actions by all users of the application </li>
+<li> And more ... </li>
 </ul>
 
-<h4>Как установить?</h4>
+<h4> How to install? </h4>
 <ul>
-<li>Скачать файлы</li>
-<li>Распаковать в каталог веб-сервера</li>
-<li>Зайти по web в каталог распаковки файлов и следовать инструкции</li>
+<li> Download files </li>
+<li> Unpack to web server directory </li>
+<li> Go to the unpacking directory on the web and follow the instructions </li>
 </ul>
 
-<h4>Какие требования?</h4>
+<h4> What are the requirements? </h4>
 <ul>
-<li>UNIX-like OS</li>
-<li>Apache (mod_rewrite), PHP (PDO, short_open_tag), MySQL</li>
-<li>Access to cron (для переноса заявок в архив)</li>
-<li>Access to mail (для отправки писем)</li>
-<img src="https://cloud.githubusercontent.com/assets/3504940/4213057/8c8d9c5a-38ad-11e4-809d-818a16bdfc13.jpg"/>
+<li> UNIX-like OS </li>
+<li> Apache (mod_rewrite), PHP (PDO, short_open_tag), MySQL </li>
+<li> Access to cron (for transferring requests to the archive) </li>
+<li> Access to mail (for sending emails) </li>
+<img src = "https://cloud.githubusercontent.com/assets/3504940/4213057/8c8d9c5a-38ad-11e4-809d-818a16bdfc13.jpg" />
 </ul>
 
-<h4>Нужны в команду</h4>
+<h4> Needed to join the team </h4>
 <ul>
-<li>Дизайнер интерфейса (bootstrap 3)</li>
-<li>Тестировщик интерфейса и логики</li>
+<li> Interface Designer (bootstrap 3) </li>
+<li> Interface and logic tester </li>
 </ul>
 
-<h4>Ссылки и обсуждения</h4>
+<h4> Links and Discussions </h4>
 <ul>
-<li>http://habrahabr.ru/post/227277/</li>
-<li>http://hd.rustem.com.ua/</li>
+<li> http://habrahabr.ru/post/227277/ </li>
+<li> http://hd.rustem.com.ua/ </li>
 </ul>
 
 
-<h4>Благодарности за вклад в проект</h4>
+<h4> Acknowledgments for the contribution to the project </h4>
 <ul>
-<li><a href='https://github.com/dima-bzz'>dima-bzz</a></li>
-<li><a href='https://github.com/Vaflan'>Vaflan</a></li>
-<li><a href='https://github.com/insp63'>insp63</a></li>
+<li> <a href='https://github.com/dima-bzz'> dima-bzz </a> </li>
+<li> <a href='https://github.com/Vaflan'> Vaflan </a> </li>
+<li> <a href='https://github.com/insp63'> insp63 </a> </li>
 </ul>
 
-<h4>Вопросы по внедрению и разработке ($)</h4>
+<h4> Implementation and Development Questions ($) </h4>
 <ul>
-<li>Skype: rustem_ck</li>
+<li> Skype: rustem_ck </li>
 </ul>
-
 
